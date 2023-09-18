@@ -8,6 +8,18 @@ In the project directory, you can run:
 
 ### `npm start`
 
+### `npm i u uid`
+
+### `npm i -save @fortawesome/fontawesome-svg-core`
+
+### `npm i --save @fortawesome/free-solid-svg-icons`
+
+### `npm i --save @fortawesome/free-regular-svg-icons`
+
+### `npm i --save @fortawesome/react-fontawesome@latest`
+
+### `cd todo-list-app`
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
